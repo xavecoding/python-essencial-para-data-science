@@ -1,10 +1,10 @@
 ## Python Essencial para Data Science
 
-Este material apresenta os códigos e slides do curso **[Python Essencial para Data Science](https://www.youtube.com/playlist?list=PL3ZslI15yo2qCEmnYOa2sq6VQOzQ2CFhj)**.
+Este material apresenta os códigos do curso **[Python Essencial para Data Science](https://www.youtube.com/playlist?list=PL3ZslI15yo2qCEmnYOa2sq6VQOzQ2CFhj)**.
 
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://hisamuka.github.io)
 
-A pasta `codigos_base` contém todos os arquivos com os códigos base utilizado nos vídeos. Utilize-os para acompanhar os vídeos a partir do mesmo ponto de partida dos vídeos.
+A pasta `codigos_base` contém todos os arquivos com os códigos base utilizados nos vídeos. Utilize-os para acompanhar os vídeos a partir do mesmo ponto de partida dos vídeos.
 
 ### Materiais de cada vídeo
 - **Conceitos básicos:**
