@@ -1,47 +1,45 @@
 ## Python Essencial para Data Science
 
-Este material apresenta os códigos e slides do curso [Python Essencial para Data Science](xxxxxxxxxxxxxxxxx).
+Este material apresenta os códigos e slides do curso **[Python Essencial para Data Science](https://www.youtube.com/playlist?list=PL3ZslI15yo2qCEmnYOa2sq6VQOzQ2CFhj)**.
 
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://hisamuka.github.io)
 
-<!-- ### Materiais de cada vídeo (slides e códigos)
-- **Ponteiros**
-  - [#1 - Variáveis e a Memória RAM](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/variaveis-e-memoria)
-  - [#2 - Introdução a Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#3 - Aprofundando em Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#4 - Programando Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#5 - Tamanhos dos tipos de dados](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#6 - Ponteiro de Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#7 - Mão na Massa: Ponteiro de Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#8 - Ponteiros: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-- **Funções**
-  - [#9 - Passagem por Valor](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/funcoes)
-  - [#10 - Codificando Funções](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/funcoes)
-  - [#11 - Passagem por Referência](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/funcoes)
-  - [#12 - Funções - Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/funcoes)
-- **Vetores e Tipos de Alocação**
-  - [#13 - Vetores Estáticos](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
-  - [#14 - Vetores e Aritmética de Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
-  - [#15 - Tipos de Alocação de Memória](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
-  - [#16 - Alocação Dinâmica na Prática](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
-  - [#17 - Vetores: Exemplos Práticos](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
-  - [#18 - Função para Desalocar Vetores Dinâmicos](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
-  - [#19 - Vetores - Mais Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
-- **Matrizes**
-  - [#20 - Matrizes Estáticas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#21 - Matrizes Dinâmicas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#22 - Matrizes 3D](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#23 - Desalocando Matrizes Dinâmicas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#24 - Matrizes: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-- **Layout de Dados**
-  - [#25 - Row e Column Major Order](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#26 - Row e Column Major Order na Prática](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-- **Structs**
-  - [#27 - Structs: Definição e Exemplos](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
-  - [#28 - Alocação Estática e Dinâmica de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
-  - [#29 - Codificando um CRUD de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
-  - [#30 - Vetores de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
-  - [#31 - Structs: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs) -->
+A pasta `codigos_base` contém todos os arquivos com os códigos base utilizado nos vídeos. Utilize-os para acompanhar os vídeos a partir do mesmo ponto de partida dos vídeos.
+
+### Materiais de cada vídeo
+- **Conceitos básicos:**
+  - [#1 - Primeiro Script: Hello world!](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/hello_world.py)
+  - [#2 - Variáveis e tipos](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/01_variaveis_e_tipos.ipynb)
+  - [#3 - Atribuição múltipla e casting](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/01_variaveis_e_tipos.ipynb)
+  - [#4 - Operadores aritméticos e print](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/01_variaveis_e_tipos.ipynb)
+- **Funções:**
+  - [#5 - Funções](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/02_funcoes.ipynb)
+  - [#6 - Escopo e argumentos default](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/02_funcoes.ipynb)
+  - [#7 - Parâmetros nomeados e function annotation](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/02_funcoes.ipynb)
+- **Condicionais:**
+  - [#8 - Condicionais: Parte 1](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/03_condicionais.ipynb)
+  - [#9 - Condicionais: Parte 2](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/03_condicionais.ipynb)
+- **Repetições:**
+  - [#10 - Intervalos](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/04_loops.ipynb)
+  - [#11 - Repetições](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/04_loops.ipynb)
+- **List**
+  - [#12 - Listas: Conceitos Básicos](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/05_lists.ipynb)
+  - [#13 - Listas: Indexação](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/05_lists.ipynb)
+  - [#14 - Listas: Slicing](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/05_lists.ipynb)
+  - [#15 - For-each com Listas](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/05_lists.ipynb)
+  - [#16 - Listas: Funções e métodos](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/05_lists.ipynb)
+  - [#17 - Listas: Mais e métodos](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/05_lists.ipynb)
+  - [#18 - List comprehensions](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/05_lists.ipynb)
+- **Strings**
+  - [#19 - Strings: Parte 1](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/06_strings.ipynb)
+  - [#20 - Strings: Parte 2](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/06_strings.ipynb)
+- **Tuple**
+  - [#21 - Tuplas](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/07_tuplas.ipynb)
+- **Dict (Dicionários)**
+  - [#22 - Dicionários: Parte 1](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/08_dicionarios.ipynb)
+  - [#23 - Dicionários: Parte 2](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/08_dicionarios.ipynb)
+- **Outros assuntos**
+  - [#24 - Bibliotecas Externas](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/09_bibliotecas_externas.ipynb)
 
 
 
